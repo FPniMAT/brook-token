@@ -1,5 +1,3 @@
-Here's a professional **Root `README.md`** that you can copy directly into your repository.
-
 ````markdown
 # brook-token
 
@@ -107,5 +105,3 @@ Contributions are welcome. Feel free to submit issues, feature requests, or pull
 
 This project is licensed under the MIT License.
 ````
-
-This is a clean, professional root README suitable for an open-source Solidity/Foundry project. After this, you can create dedicated `README.md` files inside folders like `contracts/`, `script/`, and `test/` with more detailed documentation.
