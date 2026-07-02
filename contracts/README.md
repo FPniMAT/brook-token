@@ -1,5 +1,3 @@
-Here's a professional **Root `README.md`** that you can copy directly into your repository.
-
 ````markdown
 # brook-token
 
