@@ -1,0 +1,9 @@
+test: verify token name
+
+test: verify token symbol
+
+test: verify token decimals
+
+refactor: simplify metadata assertions
+
+docs: add test descriptions
