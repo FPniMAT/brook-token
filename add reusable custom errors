@@ -1,0 +1,5 @@
+refactor: replace require strings with custom errors
+
+perf: reduce gas usage using custom errors
+
+docs: add comments for reusable error definitions
