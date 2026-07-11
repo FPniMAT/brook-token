@@ -1,0 +1,5 @@
+refactor: replace hardcoded token metadata with constants
+
+style: organize constant declarations
+
+docs: document protocol constants usage
